@@ -1,0 +1,2 @@
+# SmartLift
+SmartLift transforms your home workouts by tailoring exercises to the equipment you actually have. Get personalized, effective routines that fit your space, schedule, and fitness goals—no gym required
