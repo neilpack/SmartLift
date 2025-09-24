@@ -3,10 +3,15 @@ main()
 fun main() {
     println("Hello World")
     math()
+    names()
 }
 fun math() {
     val a = 1
     val b = 2
     val c = a + b
     println(c)
+}
+fun names() {
+    var myname = "Neil Pack"
+    println(myname)
 }
