@@ -1,0 +1,178 @@
+exercise_name,equipment,muscle_group
+Barbell Bench Press,Barbell,Chest
+Dumbbell Bench Press,Dumbbell,Chest
+Incline Barbell Bench Press,Barbell,Chest
+Incline Dumbbell Press,Dumbbell,Chest
+Decline Barbell Bench Press,Barbell,Chest
+Decline Dumbbell Press,Dumbbell,Chest
+Push-Ups,Bodyweight,Chest
+Wide-Grip Push-Ups,Bodyweight,Chest
+Chest Fly (Dumbbell),Dumbbell,Chest
+Pec Deck Machine,Machine,Chest
+Cable Crossover,Cable,Chest
+Resistance Band Chest Press,Resistance Band,Chest
+Isometric Chest Squeeze,Bodyweight,Chest
+Machine Chest Press,Machine,Chest
+Smith Machine Bench Press,Machine,Chest
+Incline Push-Ups,Bodyweight,Chest
+Medicine Ball Push-Ups,Medicine Ball,Chest
+One-Arm Dumbbell Press,Dumbbell,Chest
+Close-Grip Bench Press,Barbell,Chest
+Svend Press,Plate,Chest
+Pull-Ups,Bodyweight,Back
+Chin-Ups,Bodyweight,Back
+Neutral Grip Pull-Ups,Bodyweight,Back
+Lat Pulldown (Wide Grip),Machine,Back
+Lat Pulldown (Close Grip),Machine,Back
+Barbell Bent-Over Rows,Barbell,Back
+Dumbbell Bent-Over Rows,Dumbbell,Back
+Seated Cable Rows,Cable,Back
+T-Bar Rows,Barbell,Back
+Inverted Rows,Bodyweight,Back
+Deadlift (Conventional),Barbell,Back
+Romanian Deadlift,Barbell,Back
+Rack Pulls,Barbell,Back
+Good Mornings,Barbell,Back
+Resistance Band Rows,Resistance Band,Back
+Renegade Rows,Dumbbell,Back
+Machine Low Row,Machine,Back
+Kroc Rows,Dumbbell,Back
+Pullovers,Dumbbell,Back
+Yates Row,Barbell,Back
+Barbell Squat,Barbell,Legs
+Front Squat,Barbell,Legs
+Dumbbell Squat,Dumbbell,Legs
+Bodyweight Squat,Bodyweight,Legs
+Walking Lunges,Bodyweight,Legs
+Dumbbell Lunges,Dumbbell,Legs
+Bulgarian Split Squats,Dumbbell,Legs
+Step-Ups,Dumbbell,Legs
+Leg Press,Machine,Legs
+Hack Squat,Machine,Legs
+Leg Extension,Machine,Legs
+Leg Curl (Seated),Machine,Legs
+Leg Curl (Lying),Machine,Legs
+Glute Bridges,Bodyweight,Legs
+Hip Thrusts,Barbell,Legs
+Sumo Deadlift,Barbell,Legs
+Single-Leg Deadlift,Dumbbell,Legs
+Jump Squats,Bodyweight,Legs
+Wall Sit,Bodyweight,Legs
+Calf Raises (Standing),Bodyweight,Legs
+Calf Raises (Seated),Machine,Legs
+Smith Machine Squat,Machine,Legs
+Box Jumps,Bodyweight,Legs
+Sled Push,Sled,Legs
+Side Lunges,Bodyweight,Legs
+Curtsy Lunges,Bodyweight,Legs
+Overhead Barbell Press,Barbell,Shoulders
+Dumbbell Shoulder Press,Dumbbell,Shoulders
+Arnold Press,Dumbbell,Shoulders
+Military Press,Barbell,Shoulders
+Lateral Raises,Dumbbell,Shoulders
+Front Raises,Dumbbell,Shoulders
+Rear Delt Fly,Dumbbell,Shoulders
+Upright Rows,Barbell,Shoulders
+Face Pulls,Cable,Shoulders
+Shrugs (Barbell),Barbell,Shoulders
+Shrugs (Dumbbell),Dumbbell,Shoulders
+Smith Machine Shoulder Press,Machine,Shoulders
+Overhead Press (Seated),Barbell,Shoulders
+Machine Lateral Raises,Machine,Shoulders
+Cable Lateral Raises,Cable,Shoulders
+Resistance Band Shoulder Press,Resistance Band,Shoulders
+Plate Front Raise,Plate,Shoulders
+Handstand Push-Up,Bodyweight,Shoulders
+Pike Push-Up,Bodyweight,Shoulders
+Cuban Press,Dumbbell,Shoulders
+Barbell Bicep Curl,Barbell,Biceps
+Dumbbell Bicep Curl,Dumbbell,Biceps
+Hammer Curl,Dumbbell,Biceps
+Incline Dumbbell Curl,Dumbbell,Biceps
+Concentration Curl,Dumbbell,Biceps
+Preacher Curl (Barbell),Barbell,Biceps
+Preacher Curl (Dumbbell),Dumbbell,Biceps
+Preacher Curl (Machine),Machine,Biceps
+Cable Curl,Cable,Biceps
+Zottman Curl,Dumbbell,Biceps
+Spider Curl,Dumbbell,Biceps
+21s Bicep Curl,Barbell,Biceps
+Reverse Curl,Barbell,Biceps
+Overhead Cable Curl,Cable,Biceps
+Rope Hammer Curl,Cable,Biceps
+EZ Bar Curl,Barbell,Biceps
+One-Arm Cable Curl,Cable,Biceps
+Resistance Band Bicep Curl,Resistance Band,Biceps
+Cross-Body Curl,Dumbbell,Biceps
+Close-Grip Bench Press,Barbell,Triceps
+Tricep Dips,Bodyweight,Triceps
+Bench Dips,Bodyweight,Triceps
+Skull Crushers (EZ Bar),Barbell,Triceps
+Overhead Dumbbell Tricep Extension,Dumbbell,Triceps
+Rope Pushdown,Cable,Triceps
+Straight Bar Pushdown,Cable,Triceps
+Kickbacks,Dumbbell,Triceps
+Reverse Grip Pushdown,Cable,Triceps
+Close-Grip Push-Ups,Bodyweight,Triceps
+JM Press,Barbell,Triceps
+One-Arm Dumbbell Tricep Extension,Dumbbell,Triceps
+Lying Dumbbell Tricep Extension,Dumbbell,Triceps
+Machine Tricep Extension,Machine,Triceps
+Resistance Band Tricep Pushdown,Resistance Band,Triceps
+Diamond Push-Ups,Bodyweight,Triceps
+Bodyweight Overhead Extension,Bodyweight,Triceps
+Parallel Bar Dips,Bodyweight,Triceps
+Cable Overhead Tricep Extension,Cable,Triceps
+Crunches,Bodyweight,Core
+Sit-Ups,Bodyweight,Core
+Bicycle Crunches,Bodyweight,Core
+Leg Raises,Bodyweight,Core
+Hanging Leg Raises,Bodyweight,Core
+Plank,Bodyweight,Core
+Side Plank,Bodyweight,Core
+Russian Twists,Bodyweight,Core
+Mountain Climbers,Bodyweight,Core
+Flutter Kicks,Bodyweight,Core
+Cable Woodchopper,Cable,Core
+Ab Wheel Rollout,Bodyweight,Core
+Toe Touches,Bodyweight,Core
+Jackknife Sit-Ups,Bodyweight,Core
+V-Ups,Bodyweight,Core
+Reverse Crunch,Bodyweight,Core
+Hollow Body Hold,Bodyweight,Core
+Cable Crunch,Cable,Core
+Decline Sit-Ups,Bodyweight,Core
+Standing Oblique Crunch,Dumbbell,Core
+Side Bend,Dumbbell,Core
+Swiss Ball Crunch,Stability Ball,Core
+Weighted Sit-Up,Plate,Core
+Barbell Rollout,Barbell,Core
+Burpees,Bodyweight,Cardio
+Jumping Jacks,Bodyweight,Cardio
+High Knees,Bodyweight,Cardio
+Jump Rope,Bodyweight,Cardio
+Rowing Machine,Machine,Cardio
+Assault Bike,Machine,Cardio
+Running (Treadmill),Machine,Cardio
+Sprint Intervals,Bodyweight,Cardio
+Stair Climber,Machine,Cardio
+Battle Ropes,Ropes,Cardio
+Kettlebell Swings,Kettlebell,Cardio
+Medicine Ball Slams,Medicine Ball,Cardio
+Farmer’s Carry,Dumbbell,Cardio
+Turkish Get-Up,Kettlebell,Cardio
+Clean and Press,Barbell,Cardio
+Snatch,Barbell,Cardio
+Push Press,Barbell,Cardio
+Good Mornings,Barbell,Cardio
+Box Jumps,Bodyweight,Cardio
+Wall Sits,Bodyweight,Cardio
+Sled Push,Sled,Cardio
+Bear Crawls,Bodyweight,Cardio
+Man Makers,Dumbbell,Cardio
+Burpee Pull-Up,Bodyweight,Cardio
+Thrusters,Barbell,Cardio
+Jump Squat,Bodyweight,Cardio
+Kettlebell Snatch,Kettlebell,Cardio
+Sandbag Carry,Sandbag,Cardio
+Row to Press,Dumbbell,Cardio
