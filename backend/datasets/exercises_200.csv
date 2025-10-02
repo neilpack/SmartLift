@@ -1,178 +1,178 @@
-exercise_name,equipment,muscle_group
-Barbell Bench Press,Barbell,Chest
-Dumbbell Bench Press,Dumbbell,Chest
-Incline Barbell Bench Press,Barbell,Chest
-Incline Dumbbell Press,Dumbbell,Chest
-Decline Barbell Bench Press,Barbell,Chest
-Decline Dumbbell Press,Dumbbell,Chest
-Push-Ups,Bodyweight,Chest
-Wide-Grip Push-Ups,Bodyweight,Chest
-Chest Fly (Dumbbell),Dumbbell,Chest
-Pec Deck Machine,Machine,Chest
-Cable Crossover,Cable,Chest
-Resistance Band Chest Press,Resistance Band,Chest
-Isometric Chest Squeeze,Bodyweight,Chest
-Machine Chest Press,Machine,Chest
-Smith Machine Bench Press,Machine,Chest
-Incline Push-Ups,Bodyweight,Chest
-Medicine Ball Push-Ups,Medicine Ball,Chest
-One-Arm Dumbbell Press,Dumbbell,Chest
-Close-Grip Bench Press,Barbell,Chest
-Svend Press,Plate,Chest
-Pull-Ups,Bodyweight,Back
-Chin-Ups,Bodyweight,Back
-Neutral Grip Pull-Ups,Bodyweight,Back
-Lat Pulldown (Wide Grip),Machine,Back
-Lat Pulldown (Close Grip),Machine,Back
-Barbell Bent-Over Rows,Barbell,Back
-Dumbbell Bent-Over Rows,Dumbbell,Back
-Seated Cable Rows,Cable,Back
-T-Bar Rows,Barbell,Back
-Inverted Rows,Bodyweight,Back
-Deadlift (Conventional),Barbell,Back
-Romanian Deadlift,Barbell,Back
-Rack Pulls,Barbell,Back
-Good Mornings,Barbell,Back
-Resistance Band Rows,Resistance Band,Back
-Renegade Rows,Dumbbell,Back
-Machine Low Row,Machine,Back
-Kroc Rows,Dumbbell,Back
-Pullovers,Dumbbell,Back
-Yates Row,Barbell,Back
-Barbell Squat,Barbell,Legs
-Front Squat,Barbell,Legs
-Dumbbell Squat,Dumbbell,Legs
-Bodyweight Squat,Bodyweight,Legs
-Walking Lunges,Bodyweight,Legs
-Dumbbell Lunges,Dumbbell,Legs
-Bulgarian Split Squats,Dumbbell,Legs
-Step-Ups,Dumbbell,Legs
-Leg Press,Machine,Legs
-Hack Squat,Machine,Legs
-Leg Extension,Machine,Legs
-Leg Curl (Seated),Machine,Legs
-Leg Curl (Lying),Machine,Legs
-Glute Bridges,Bodyweight,Legs
-Hip Thrusts,Barbell,Legs
-Sumo Deadlift,Barbell,Legs
-Single-Leg Deadlift,Dumbbell,Legs
-Jump Squats,Bodyweight,Legs
-Wall Sit,Bodyweight,Legs
-Calf Raises (Standing),Bodyweight,Legs
-Calf Raises (Seated),Machine,Legs
-Smith Machine Squat,Machine,Legs
-Box Jumps,Bodyweight,Legs
-Sled Push,Sled,Legs
-Side Lunges,Bodyweight,Legs
-Curtsy Lunges,Bodyweight,Legs
-Overhead Barbell Press,Barbell,Shoulders
-Dumbbell Shoulder Press,Dumbbell,Shoulders
-Arnold Press,Dumbbell,Shoulders
-Military Press,Barbell,Shoulders
-Lateral Raises,Dumbbell,Shoulders
-Front Raises,Dumbbell,Shoulders
-Rear Delt Fly,Dumbbell,Shoulders
-Upright Rows,Barbell,Shoulders
-Face Pulls,Cable,Shoulders
-Shrugs (Barbell),Barbell,Shoulders
-Shrugs (Dumbbell),Dumbbell,Shoulders
-Smith Machine Shoulder Press,Machine,Shoulders
-Overhead Press (Seated),Barbell,Shoulders
-Machine Lateral Raises,Machine,Shoulders
-Cable Lateral Raises,Cable,Shoulders
-Resistance Band Shoulder Press,Resistance Band,Shoulders
-Plate Front Raise,Plate,Shoulders
-Handstand Push-Up,Bodyweight,Shoulders
-Pike Push-Up,Bodyweight,Shoulders
-Cuban Press,Dumbbell,Shoulders
-Barbell Bicep Curl,Barbell,Biceps
-Dumbbell Bicep Curl,Dumbbell,Biceps
-Hammer Curl,Dumbbell,Biceps
-Incline Dumbbell Curl,Dumbbell,Biceps
-Concentration Curl,Dumbbell,Biceps
-Preacher Curl (Barbell),Barbell,Biceps
-Preacher Curl (Dumbbell),Dumbbell,Biceps
-Preacher Curl (Machine),Machine,Biceps
-Cable Curl,Cable,Biceps
-Zottman Curl,Dumbbell,Biceps
-Spider Curl,Dumbbell,Biceps
-21s Bicep Curl,Barbell,Biceps
-Reverse Curl,Barbell,Biceps
-Overhead Cable Curl,Cable,Biceps
-Rope Hammer Curl,Cable,Biceps
-EZ Bar Curl,Barbell,Biceps
-One-Arm Cable Curl,Cable,Biceps
-Resistance Band Bicep Curl,Resistance Band,Biceps
-Cross-Body Curl,Dumbbell,Biceps
-Close-Grip Bench Press,Barbell,Triceps
-Tricep Dips,Bodyweight,Triceps
-Bench Dips,Bodyweight,Triceps
-Skull Crushers (EZ Bar),Barbell,Triceps
-Overhead Dumbbell Tricep Extension,Dumbbell,Triceps
-Rope Pushdown,Cable,Triceps
-Straight Bar Pushdown,Cable,Triceps
-Kickbacks,Dumbbell,Triceps
-Reverse Grip Pushdown,Cable,Triceps
-Close-Grip Push-Ups,Bodyweight,Triceps
-JM Press,Barbell,Triceps
-One-Arm Dumbbell Tricep Extension,Dumbbell,Triceps
-Lying Dumbbell Tricep Extension,Dumbbell,Triceps
-Machine Tricep Extension,Machine,Triceps
-Resistance Band Tricep Pushdown,Resistance Band,Triceps
-Diamond Push-Ups,Bodyweight,Triceps
-Bodyweight Overhead Extension,Bodyweight,Triceps
-Parallel Bar Dips,Bodyweight,Triceps
-Cable Overhead Tricep Extension,Cable,Triceps
-Crunches,Bodyweight,Core
-Sit-Ups,Bodyweight,Core
-Bicycle Crunches,Bodyweight,Core
-Leg Raises,Bodyweight,Core
-Hanging Leg Raises,Bodyweight,Core
-Plank,Bodyweight,Core
-Side Plank,Bodyweight,Core
-Russian Twists,Bodyweight,Core
-Mountain Climbers,Bodyweight,Core
-Flutter Kicks,Bodyweight,Core
-Cable Woodchopper,Cable,Core
-Ab Wheel Rollout,Bodyweight,Core
-Toe Touches,Bodyweight,Core
-Jackknife Sit-Ups,Bodyweight,Core
-V-Ups,Bodyweight,Core
-Reverse Crunch,Bodyweight,Core
-Hollow Body Hold,Bodyweight,Core
-Cable Crunch,Cable,Core
-Decline Sit-Ups,Bodyweight,Core
-Standing Oblique Crunch,Dumbbell,Core
-Side Bend,Dumbbell,Core
-Swiss Ball Crunch,Stability Ball,Core
-Weighted Sit-Up,Plate,Core
-Barbell Rollout,Barbell,Core
-Burpees,Bodyweight,Cardio
-Jumping Jacks,Bodyweight,Cardio
-High Knees,Bodyweight,Cardio
-Jump Rope,Bodyweight,Cardio
-Rowing Machine,Machine,Cardio
-Assault Bike,Machine,Cardio
-Running (Treadmill),Machine,Cardio
-Sprint Intervals,Bodyweight,Cardio
-Stair Climber,Machine,Cardio
-Battle Ropes,Ropes,Cardio
-Kettlebell Swings,Kettlebell,Cardio
-Medicine Ball Slams,Medicine Ball,Cardio
-Farmer’s Carry,Dumbbell,Cardio
-Turkish Get-Up,Kettlebell,Cardio
-Clean and Press,Barbell,Cardio
-Snatch,Barbell,Cardio
-Push Press,Barbell,Cardio
-Good Mornings,Barbell,Cardio
-Box Jumps,Bodyweight,Cardio
-Wall Sits,Bodyweight,Cardio
-Sled Push,Sled,Cardio
-Bear Crawls,Bodyweight,Cardio
-Man Makers,Dumbbell,Cardio
-Burpee Pull-Up,Bodyweight,Cardio
-Thrusters,Barbell,Cardio
-Jump Squat,Bodyweight,Cardio
-Kettlebell Snatch,Kettlebell,Cardio
-Sandbag Carry,Sandbag,Cardio
-Row to Press,Dumbbell,Cardio
+title,type,equipment,muscle_group,description,difficulty
+Barbell Bench Press,Strength,Barbell,Chest,Lay on a flat bench and press the barbell upward until arms are fully extended.,Intermediate
+Dumbbell Bench Press,Strength,Dumbbell,Chest,Lay on a bench and press dumbbells upward with palms facing forward.,Beginner
+Incline Barbell Bench Press,Strength,Barbell,Chest,Use an incline bench to press the barbell upward for upper chest activation.,Intermediate
+Incline Dumbbell Press,Strength,Dumbbell,Chest,Press dumbbells upward from an incline bench to target upper chest.,Beginner
+Decline Barbell Bench Press,Strength,Barbell,Chest,Press the barbell upward from a decline bench to target lower chest.,Intermediate
+Decline Dumbbell Press,Strength,Dumbbell,Chest,Press dumbbells upward from a decline bench for lower chest focus.,Beginner
+Push-Ups,Strength,Bodyweight,Chest,Keep body straight and push up from the floor until arms are extended.,Beginner
+Wide-Grip Push-Ups,Strength,Bodyweight,Chest,Perform push-ups with a wider hand placement to target outer chest.,Beginner
+Chest Fly (Dumbbell),Strength,Dumbbell,Chest,Lower dumbbells outward and bring them back together in a fly motion.,Intermediate
+Pec Deck Machine,Strength,Machine,Chest,Sit at the pec deck and bring arms together in a hugging motion.,Beginner
+Cable Crossover,Strength,Cable,Chest,"Pull cables across the chest with arms slightly bent, crossing hands.",Intermediate
+Resistance Band Chest Press,Strength,Resistance Band,Chest,Anchor band and press forward like a bench press.,Beginner
+Isometric Chest Squeeze,Strength,Bodyweight,Chest,Press palms together firmly in front of chest to contract muscles.,Beginner
+Machine Chest Press,Strength,Machine,Chest,Press handles forward on a machine to target chest muscles.,Beginner
+Smith Machine Bench Press,Strength,Machine,Chest,Perform bench press on a smith machine for guided motion.,Intermediate
+Incline Push-Ups,Strength,Bodyweight,Chest,Place hands elevated and push up to reduce difficulty.,Beginner
+Medicine Ball Push-Ups,Strength,Medicine Ball,Chest,Perform push-ups with hands on a medicine ball for stability challenge.,Intermediate
+One-Arm Dumbbell Press,Strength,Dumbbell,Chest,Press one dumbbell upward while lying flat for unilateral strength.,Intermediate
+Close-Grip Bench Press,Strength,Barbell,Chest,Press barbell upward with close grip to target triceps and chest.,Intermediate
+Svend Press,Strength,Plate,Chest,Hold plate between hands at chest and press forward.,Beginner
+Pull-Ups,Strength,Bodyweight,Back,Hang from a bar and pull chin above the bar.,Intermediate
+Chin-Ups,Strength,Bodyweight,Back,Perform pull-ups with underhand grip for biceps and back.,Intermediate
+Neutral Grip Pull-Ups,Strength,Bodyweight,Back,Pull up using parallel bars for neutral grip.,Intermediate
+Lat Pulldown (Wide Grip),Strength,Machine,Back,Pull bar down from overhead to chest with wide grip.,Beginner
+Lat Pulldown (Close Grip),Strength,Machine,Back,Pull bar down with close grip to target inner lats.,Beginner
+Barbell Bent-Over Rows,Strength,Barbell,Back,Bend forward and row barbell to waist.,Intermediate
+Dumbbell Bent-Over Rows,Strength,Dumbbell,Back,Row dumbbells to waist while bent forward.,Beginner
+Seated Cable Rows,Strength,Cable,Back,Sit at cable machine and pull handle to torso.,Beginner
+T-Bar Rows,Strength,Barbell,Back,Row barbell with V-handle to midsection.,Intermediate
+Inverted Rows,Strength,Bodyweight,Back,Pull chest to bar while lying under it.,Beginner
+Deadlift (Conventional),Strength,Barbell,Back,Stand and lift barbell from floor to hips with straight back.,Advanced
+Romanian Deadlift,Strength,Barbell,Back,"Lower barbell to shins with straight legs and back, then rise.",Intermediate
+Rack Pulls,Strength,Barbell,Back,Perform partial deadlift from rack starting height.,Intermediate
+Good Mornings,Strength,Barbell,Back,Hinge forward with barbell on shoulders to stretch hamstrings and back.,Advanced
+Resistance Band Rows,Strength,Resistance Band,Back,Row resistance bands toward torso.,Beginner
+Renegade Rows,Strength,Dumbbell,Back,Hold plank while rowing dumbbell to chest.,Intermediate
+Machine Low Row,Strength,Machine,Back,Sit and pull machine handles back to torso.,Beginner
+Kroc Rows,Strength,Dumbbell,Back,Perform heavy dumbbell row with high reps.,Advanced
+Pullovers,Strength,Dumbbell,Back,Lay on bench and extend dumbbell behind head then pull forward.,Intermediate
+Yates Row,Strength,Barbell,Back,Perform row with underhand grip for lower lats.,Intermediate
+Barbell Squat,Strength,Barbell,Legs,Place barbell across shoulders and squat until thighs are parallel then rise.,Intermediate
+Front Squat,Strength,Barbell,Legs,Hold barbell across front shoulders and squat down keeping torso upright.,Advanced
+Dumbbell Squat,Strength,Dumbbell,Legs,Hold dumbbells at sides and squat until thighs are parallel.,Beginner
+Bodyweight Squat,Strength,Bodyweight,Legs,Stand with feet shoulder-width apart and squat down keeping back straight.,Beginner
+Walking Lunges,Strength,Bodyweight,Legs,Step forward into a lunge and alternate legs.,Beginner
+Dumbbell Lunges,Strength,Dumbbell,Legs,Step into lunges holding dumbbells at sides.,Beginner
+Bulgarian Split Squats,Strength,Dumbbell,Legs,Place one foot on a bench and lunge with the front leg while holding dumbbells.,Intermediate
+Step-Ups,Strength,Dumbbell,Legs,Step onto a raised platform with one leg while holding dumbbells.,Beginner
+Leg Press,Strength,Machine,Legs,Press weight platform away with legs until extended then return slowly.,Beginner
+Hack Squat,Strength,Machine,Legs,Use machine to squat with guided movement.,Intermediate
+Leg Extension,Strength,Machine,Legs,Sit on machine and extend legs against resistance.,Beginner
+Leg Curl (Seated),Strength,Machine,Legs,Sit on machine and curl legs backward against resistance.,Beginner
+Leg Curl (Lying),Strength,Machine,Legs,Lay face down and curl legs upward against resistance.,Beginner
+Glute Bridges,Strength,Bodyweight,Legs,Lie on back and raise hips upward to squeeze glutes.,Beginner
+Hip Thrusts,Strength,Barbell,Legs,Place barbell across hips and thrust upward from seated position.,Intermediate
+Sumo Deadlift,Strength,Barbell,Legs,Widen stance and lift barbell from floor with straight back.,Advanced
+Single-Leg Deadlift,Strength,Dumbbell,Legs,Hinge at hips on one leg while lowering dumbbell to the floor.,Intermediate
+Jump Squats,Strength,Bodyweight,Legs,Squat down and jump explosively before landing softly.,Intermediate
+Wall Sit,Strength,Bodyweight,Legs,Sit against wall with thighs parallel and hold position.,Beginner
+Calf Raises (Standing),Strength,Bodyweight,Legs,Stand tall and raise heels to contract calves.,Beginner
+Calf Raises (Seated),Strength,Machine,Legs,Sit and raise heels against resistance to target calves.,Beginner
+Smith Machine Squat,Strength,Machine,Legs,Perform squats with guided smith machine for support.,Intermediate
+Box Jumps,Cardio,Bodyweight,Legs,Jump explosively onto a sturdy box or platform.,Intermediate
+Sled Push,Strength,Sled,Legs,Push a weighted sled forward across the floor.,Advanced
+Side Lunges,Strength,Bodyweight,Legs,Step out to the side and lunge with one leg while keeping other leg straight.,Beginner
+Curtsy Lunges,Strength,Bodyweight,Legs,"Step one leg behind and across into a lunge, lowering hips.",Beginner
+Overhead Barbell Press,Strength,Barbell,Shoulders,Press barbell overhead from shoulders until arms are extended.,Intermediate
+Dumbbell Shoulder Press,Strength,Dumbbell,Shoulders,Press dumbbells upward from shoulder height until arms are extended.,Beginner
+Arnold Press,Strength,Dumbbell,Shoulders,Rotate dumbbells from palms-in to palms-out while pressing overhead.,Intermediate
+Military Press,Strength,Barbell,Shoulders,Press barbell overhead from standing military position.,Intermediate
+Lateral Raises,Strength,Dumbbell,Shoulders,Lift dumbbells to the side until arms are parallel to floor.,Beginner
+Front Raises,Strength,Dumbbell,Shoulders,Lift dumbbells straight in front of body to shoulder height.,Beginner
+Rear Delt Fly,Strength,Dumbbell,Shoulders,Bend forward and lift dumbbells outward to target rear delts.,Intermediate
+Upright Rows,Strength,Barbell,Shoulders,Pull barbell upward to chin with elbows flared outward.,Intermediate
+Face Pulls,Strength,Cable,Shoulders,Pull cable ropes toward face at eye level.,Beginner
+Shrugs (Barbell),Strength,Barbell,Shoulders,Hold barbell at sides and shrug shoulders upward.,Beginner
+Shrugs (Dumbbell),Strength,Dumbbell,Shoulders,Hold dumbbells at sides and shrug shoulders upward.,Beginner
+Smith Machine Shoulder Press,Strength,Machine,Shoulders,Perform seated overhead press with smith machine for support.,Intermediate
+Overhead Press (Seated),Strength,Barbell,Shoulders,Press barbell overhead while seated with back support.,Intermediate
+Machine Lateral Raises,Strength,Machine,Shoulders,Use machine to raise arms outward to the sides.,Beginner
+Cable Lateral Raises,Strength,Cable,Shoulders,Raise cable handle outward to the side to shoulder height.,Beginner
+Resistance Band Shoulder Press,Strength,Resistance Band,Shoulders,Press upward using resistance bands from shoulder height.,Beginner
+Plate Front Raise,Strength,Plate,Shoulders,Hold weight plate and raise in front of body to shoulder level.,Beginner
+Handstand Push-Up,Strength,Bodyweight,Shoulders,Perform push-ups in handstand position against a wall.,Advanced
+Pike Push-Up,Strength,Bodyweight,Shoulders,Perform push-up with hips raised in pike position to target shoulders.,Intermediate
+Cuban Press,Strength,Dumbbell,Shoulders,Externally rotate dumbbells then press overhead.,Advanced
+Barbell Bicep Curl,Strength,Barbell,Biceps,Stand and curl the barbell upward to shoulder height then lower slowly.,Beginner
+Dumbbell Bicep Curl,Strength,Dumbbell,Biceps,Hold dumbbells and curl them toward shoulders with palms up.,Beginner
+Hammer Curl,Strength,Dumbbell,Biceps,Hold dumbbells with palms facing inward and curl upward.,Beginner
+Incline Dumbbell Curl,Strength,Dumbbell,Biceps,Sit on incline bench and curl dumbbells to shoulders.,Intermediate
+Concentration Curl,Strength,Dumbbell,Biceps,Sit and curl dumbbell with elbow braced against thigh.,Beginner
+Preacher Curl (Barbell),Strength,Barbell,Biceps,Perform curls with upper arms supported on preacher bench.,Intermediate
+Preacher Curl (Dumbbell),Strength,Dumbbell,Biceps,Curl dumbbell on preacher bench isolating biceps.,Beginner
+Preacher Curl (Machine),Strength,Machine,Biceps,Use machine preacher bench to curl arms upward.,Beginner
+Cable Curl,Strength,Cable,Biceps,Attach straight bar to cable and curl to shoulders.,Intermediate
+Zottman Curl,Strength,Dumbbell,Biceps,Perform curl then rotate wrists downward on descent.,Intermediate
+Spider Curl,Strength,Dumbbell,Biceps,Lay chest-down on bench and curl dumbbells upward.,Intermediate
+21s Bicep Curl,Strength,Barbell,Biceps,Curl barbell in partial and full ranges of motion in sets of 21 reps.,Advanced
+Reverse Curl,Strength,Barbell,Biceps,Curl barbell with overhand grip to target forearms and biceps.,Intermediate
+Overhead Cable Curl,Strength,Cable,Biceps,Pull cable from overhead position down to shoulders.,Intermediate
+Rope Hammer Curl,Strength,Cable,Biceps,Attach rope handle and curl upward with neutral grip.,Intermediate
+EZ Bar Curl,Strength,Barbell,Biceps,Curl EZ bar with angled grip to reduce wrist strain.,Beginner
+One-Arm Cable Curl,Strength,Cable,Biceps,Curl cable handle one arm at a time.,Beginner
+Resistance Band Bicep Curl,Strength,Resistance Band,Biceps,Stand on band and curl handles upward.,Beginner
+Cross-Body Curl,Strength,Dumbbell,Biceps,Curl dumbbell across torso toward opposite shoulder.,Beginner
+Close-Grip Bench Press,Strength,Barbell,Triceps,Perform bench press with close grip to target triceps.,Intermediate
+Tricep Dips,Strength,Bodyweight,Triceps,Lower and raise body using parallel bars for triceps focus.,Intermediate
+Bench Dips,Strength,Bodyweight,Triceps,Place hands on bench behind you and dip body down and up.,Beginner
+Skull Crushers (EZ Bar),Strength,Barbell,Triceps,Lower EZ bar toward forehead then extend arms.,Intermediate
+Overhead Dumbbell Tricep Extension,Strength,Dumbbell,Triceps,Extend dumbbell overhead from behind head.,Beginner
+Rope Pushdown,Strength,Cable,Triceps,Push rope attachment downward at cable station.,Beginner
+Straight Bar Pushdown,Strength,Cable,Triceps,Push bar down from cable station to thighs.,Beginner
+Kickbacks,Strength,Dumbbell,Triceps,Hinge forward and extend dumbbell backward to straighten arm.,Beginner
+Reverse Grip Pushdown,Strength,Cable,Triceps,Push bar down with underhand grip.,Intermediate
+Close-Grip Push-Ups,Strength,Bodyweight,Triceps,Perform push-ups with hands close together for triceps activation.,Beginner
+JM Press,Strength,Barbell,Triceps,Lower bar halfway between bench press and skull crusher.,Advanced
+One-Arm Dumbbell Tricep Extension,Strength,Dumbbell,Triceps,Hold dumbbell overhead and extend one arm.,Beginner
+Lying Dumbbell Tricep Extension,Strength,Dumbbell,Triceps,Lay back and lower dumbbells behind head then extend.,Beginner
+Machine Tricep Extension,Strength,Machine,Triceps,Use machine to extend arms downward for triceps.,Beginner
+Resistance Band Tricep Pushdown,Strength,Resistance Band,Triceps,Anchor band overhead and push downward.,Beginner
+Diamond Push-Ups,Strength,Bodyweight,Triceps,Perform push-ups with hands together under chest.,Beginner
+Bodyweight Overhead Extension,Strength,Bodyweight,Triceps,Raise arms overhead and extend behind head using bodyweight.,Beginner
+Parallel Bar Dips,Strength,Bodyweight,Triceps,Lower body on parallel bars until arms bent then press upward.,Intermediate
+Cable Overhead Tricep Extension,Strength,Cable,Triceps,Extend cable handle overhead behind head.,Intermediate
+Crunches,Core,Bodyweight,Core,Lay on back and lift shoulders toward knees by contracting abs.,Beginner
+Sit-Ups,Core,Bodyweight,Core,Lay on back and raise torso fully upward then return.,Beginner
+Bicycle Crunches,Core,Bodyweight,Core,Lay on back and alternate elbow-to-knee in pedaling motion.,Beginner
+Leg Raises,Core,Bodyweight,Core,Lay on back and raise legs straight upward then lower slowly.,Beginner
+Hanging Leg Raises,Core,Bodyweight,Core,Hang from bar and raise legs upward toward torso.,Intermediate
+Plank,Core,Bodyweight,Core,Hold body in straight line supported by forearms and toes.,Beginner
+Side Plank,Core,Bodyweight,Core,Hold body on one side supported by forearm and feet.,Beginner
+Russian Twists,Core,Bodyweight,Core,Sit back slightly and twist torso side-to-side.,Beginner
+Mountain Climbers,Core,Bodyweight,Core,Drive knees toward chest rapidly from plank position.,Beginner
+Flutter Kicks,Core,Bodyweight,Core,Lay on back and alternate small leg kicks off floor.,Beginner
+Cable Woodchopper,Core,Cable,Core,Pull cable diagonally across body from high to low.,Intermediate
+Ab Wheel Rollout,Core,Bodyweight,Core,Kneel and roll ab wheel forward then pull back.,Intermediate
+Toe Touches,Core,Bodyweight,Core,Lay on back and reach hands toward raised feet.,Beginner
+Jackknife Sit-Ups,Core,Bodyweight,Core,Simultaneously raise legs and torso to meet at top.,Intermediate
+V-Ups,Core,Bodyweight,Core,Lay on back and raise legs and arms together to form a V.,Intermediate
+Reverse Crunch,Core,Bodyweight,Core,Lay on back and lift hips upward by curling abs.,Beginner
+Hollow Body Hold,Core,Bodyweight,Core,Hold torso and legs slightly off floor in hollow position.,Intermediate
+Cable Crunch,Core,Cable,Core,Kneel at cable station and crunch downward holding rope.,Intermediate
+Decline Sit-Ups,Core,Bodyweight,Core,Lay on decline bench and sit up fully then return.,Intermediate
+Standing Oblique Crunch,Core,Dumbbell,Core,Hold dumbbell at side and crunch torso sideways.,Beginner
+Side Bend,Core,Dumbbell,Core,Hold dumbbell and bend sideways to target obliques.,Beginner
+Swiss Ball Crunch,Core,Stability Ball,Core,Perform crunches while lying on stability ball.,Beginner
+Weighted Sit-Up,Core,Plate,Core,Hold weight plate across chest and sit up.,Intermediate
+Barbell Rollout,Core,Barbell,Core,Roll barbell forward from kneeling then pull back.,Advanced
+Burpees,Cardio,Bodyweight,Cardio,Drop to push-up then jump explosively upward.,Intermediate
+Jumping Jacks,Cardio,Bodyweight,Cardio,Jump while spreading arms and legs outward and inward.,Beginner
+High Knees,Cardio,Bodyweight,Cardio,Run in place lifting knees to waist height.,Beginner
+Jump Rope,Cardio,Bodyweight,Cardio,Jump repeatedly over swinging rope.,Beginner
+Rowing Machine,Cardio,Machine,Cardio,Row using machine handle with legs and back drive.,Beginner
+Assault Bike,Cardio,Machine,Cardio,Pedal bike while pushing and pulling handles.,Beginner
+Running (Treadmill),Cardio,Machine,Cardio,Run at set pace on treadmill.,Beginner
+Sprint Intervals,Cardio,Bodyweight,Cardio,"Sprint at max effort then rest, repeated.",Intermediate
+Stair Climber,Cardio,Machine,Cardio,Step continuously on rotating stair machine.,Beginner
+Battle Ropes,Cardio,Ropes,Cardio,Grip ropes and create waves with arms.,Intermediate
+Kettlebell Swings,Cardio,Kettlebell,Cardio,Swing kettlebell from between legs to shoulder height.,Intermediate
+Medicine Ball Slams,Cardio,Medicine Ball,Cardio,Raise ball overhead and slam it to the ground.,Intermediate
+Farmer’s Carry,Cardio,Dumbbell,Cardio,Walk holding heavy dumbbells at sides.,Intermediate
+Turkish Get-Up,Cardio,Kettlebell,Cardio,Move from floor to standing while holding kettlebell overhead.,Advanced
+Clean and Press,Cardio,Barbell,Cardio,Lift barbell from floor to shoulders and press overhead.,Advanced
+Snatch,Cardio,Barbell,Cardio,Lift barbell overhead in one explosive motion.,Advanced
+Push Press,Cardio,Barbell,Cardio,Use legs to help press barbell overhead.,Intermediate
+Good Mornings,Cardio,Barbell,Cardio,Hinge at hips with barbell on shoulders and return upright.,Advanced
+Box Jumps,Cardio,Bodyweight,Cardio,Jump explosively onto a sturdy box or platform.,Intermediate
+Wall Sits,Cardio,Bodyweight,Cardio,Hold seated position against wall with thighs parallel.,Beginner
+Sled Push,Cardio,Sled,Cardio,Push weighted sled forward across floor.,Advanced
+Bear Crawls,Cardio,Bodyweight,Cardio,Crawl forward on hands and feet while keeping hips low.,Beginner
+Man Makers,Cardio,Dumbbell,Cardio,"Combine push-up, row, squat, and press with dumbbells.",Advanced
+Burpee Pull-Up,Cardio,Bodyweight,Cardio,Perform burpee then jump into pull-up.,Advanced
+Thrusters,Cardio,Barbell,Cardio,Perform front squat then push press in one movement.,Advanced
+Jump Squat,Cardio,Bodyweight,Cardio,Squat down and jump explosively upward.,Intermediate
+Kettlebell Snatch,Cardio,Kettlebell,Cardio,Lift kettlebell overhead in one explosive motion.,Advanced
+Sandbag Carry,Cardio,Sandbag,Cardio,Carry sandbag over distance for strength and endurance.,Advanced
+Row to Press,Cardio,Dumbbell,Cardio,Row dumbbells then immediately press overhead.,Intermediate
