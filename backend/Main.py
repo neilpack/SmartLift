@@ -1,4 +1,7 @@
 import tkinter as tk
+import os as os
+import sqlite3
+import pandas as pd
 
 #text class
 class MyText(tk.Text):
