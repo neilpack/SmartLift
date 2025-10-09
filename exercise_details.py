@@ -19,9 +19,9 @@ def createExerciseDetailsWindow(exercise_id, dataframe):
     win.title(filtered[0]['name'])
     win.geometry("300x150")
 
-    tree = ttk.Treeview(win, columns =("Age", "Occupation"), show = 'headings' )
-    tree.heading('Age', text = "Age")
-    tree.heading('Occupation', text = "Occupation")
+    tree = ttk.Treeview(win, columns =("age", "occupation"), show = 'headings' )
+    tree.heading('age', text = "Age")
+    tree.heading('occupation', text = "Occupation")
 
     tree.insert("", tk.END, values=(filtered[0]["age"], filtered[0]["occupation"]))
     tree.pack(expand=True, fill="both")
