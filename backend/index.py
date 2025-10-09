@@ -21,37 +21,26 @@ import sqlite3
 
 
 # Define Functions
-def callTableNames():
-    database = sqlite3.connect('exercises.db')
-    cursor = database.cursor()
+def display_database(db_path="backend/exercises.db"):
+    conn = sqlite3.connect(db_path)
+    cursor = conn.cursor()
 
-    cursor.execute("SELECT name FROM sqlite_master WHERE type ='table';")
+    # Get all table names
+    cursor.execute("SELECT name FROM sqlite_master WHERE type='table';")
     tables = cursor.fetchall()
 
-    for table in tables:
-        print(table)
+    for table_name in tables:
+        name = table_name[0]
+        print(f"\n📁 Table: {name}")
+        cursor.execute(f"PRAGMA table_info({name});")
+        columns = [col[1] for col in cursor.fetchall()]
+        print("Columns:", columns)
 
-    database.close
+        cursor.execute(f"SELECT * FROM {name};")
+        rows = cursor.fetchall()
+        for row in rows:
+            print(row)
 
-def callTable(table):
-    database = sqlite3.connect('exercises.db')
+    conn.close()
 
-    #
-    df = pd.read_sql_query(f"SELECT * FROM {table}", database)
-    print(df)
-
-    database.close
-
-def callRow(table, row_id):
-    return 0
-
-def createExercisePlanned(exercise, quantity, measurement):
-    return 0
-
-def deleteExercisePlanned(exercise_id):
-    return 0
-
-def editExercisePlanned(exercise, quantity, measurement):
-    return 0
-
-callTableNames()
+display_database()
