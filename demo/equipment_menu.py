@@ -1,50 +1,43 @@
 import tkinter as tk
+import ttkbootstrap as ttk
+from ttkbootstrap import Window
 
-# Window setup
-root = tk.Tk()
-root.title("Equipment Menu")
+class EquipmentMenu(ttk.Frame):
+    def __init__(self, master, on_equipment_selected):
+        super().__init__(master)
+        self.on_equipment_selected = on_equipment_selected
+        self.pack(fill="both", expand=True)
+        
+        self.equipment_options = [
+            "Barbell", "Dumbbell", "Kettlebell", "Bodyweight", 
+            "Machine", "Cable", "Resistance Band", "Medicine Ball"
+        ]
+        
+        self.buttons = {}
+        self.create_widgets()
 
-# Set windows size to 1080x1920
-root.geometry("1080x1920")
+    def create_widgets(self):
+        title = ttk.Label(self, text="Select Equipment", font=("Arial", 24, "bold"), pady=20)
+        title.pack()
 
-# Define equipment options and their toggle states
-toggle_vars = {
-    "Barbell": tk.BooleanVar(value=False),
-    "Dumbells": tk.BooleanVar(value=False),
-    "Kettlebells": tk.BooleanVar(value=False),
-    "Bench": tk.BooleanVar(value=False),
-    "Rack": tk.BooleanVar(value=False),
-}
+        button_frame = ttk.Frame(self)
+        button_frame.pack(expand=True)
 
-# toggle function
-def toggle(option):
-    current = toggle_vars[option].get()
-    toggle_vars[option].set(not current)
-    update_button_style(option)
-    print(f"{option} = {toggle_vars[option].get()}")
+        for i, option in enumerate(self.equipment_options):
+            row = i // 2
+            col = i % 2
+            button = ttk.Button(
+                button_frame,
+                text=option,
+                width=18,
+                height=2,
+                style="info", # Previous style line commented out
+                # bg="lightblue",
+                # font=("Arial", 14, "bold"),
+                command=lambda opt=option: self.select_equipment(opt)
+            )
+            button.grid(row=row, column=col, padx=10, pady=10)
+            self.buttons[option] = button
 
-# Simple function to update button style based on state
-def update_button_style(option):
-    button = buttons[option]
-    if toggle_vars[option].get():
-        button.config(bg="lightgreen")
-    else:
-        button.config(bg="lightcoral")
-
-# Create buttons
-buttons = {}
-for i, option in enumerate(toggle_vars):
-    button = tk.Button(
-        root,
-        text=f"{option}",
-        width=20,
-        height=3,
-        bg="lightcoral",
-        font=("Arial", 20, "bold"),
-        command=lambda opt=option: toggle(opt)
-    )
-    button.pack(pady=20)
-    buttons[option] = button
-
-# Run the app
-root.mainloop()
+    def select_equipment(self, equipment):
+        self.on_equipment_selected(equipment)
