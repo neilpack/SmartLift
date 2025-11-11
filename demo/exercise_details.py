@@ -15,11 +15,10 @@ class ExerciseDetails(tk.Frame):
     def create_widgets(self):
         title = ttk.Label(
             self, 
-            text="Exercise Details", 
-            font=("Arial", 20, "bold"), 
-            pady=10
+            text="Exercise Details"
+            , font=("Arial", 20, "bold")
             )
-        title.pack()
+        title.pack(pady=10)
 
         self.details_frame = ttk.Frame(self)
         self.details_frame.pack(fill="both", expand=True, padx=20, pady=10)
@@ -27,8 +26,7 @@ class ExerciseDetails(tk.Frame):
         back_button = ttk.Button(
             self, 
             text="Back", 
-            style="warning"
-            #font=("Arial", 16), 
+            bootstyle="warning",
             command=self.on_back
             )
         back_button.pack(pady=10)

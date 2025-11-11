@@ -17,8 +17,8 @@ class EquipmentMenu(ttk.Frame):
         self.create_widgets()
 
     def create_widgets(self):
-        title = ttk.Label(self, text="Select Equipment", font=("Arial", 24, "bold"), pady=20)
-        title.pack()
+        title = ttk.Label(self, text="Select Equipment", font=("Arial", 24, "bold"))
+        title.pack(pady=20)
 
         button_frame = ttk.Frame(self)
         button_frame.pack(expand=True)
@@ -30,10 +30,8 @@ class EquipmentMenu(ttk.Frame):
                 button_frame,
                 text=option,
                 width=18,
-                height=2,
-                style="info", # Previous style line commented out
-                # bg="lightblue",
-                # font=("Arial", 14, "bold"),
+                # height=2,
+                style="info",
                 command=lambda opt=option: self.select_equipment(opt)
             )
             button.grid(row=row, column=col, padx=10, pady=10)

@@ -17,23 +17,23 @@ class ExerciseMenu(ttk.Frame):
         title = ttk.Label(
             self, 
             text=f"Exercises for {self.selected_equipment}", 
-            font=("Arial", 20, "bold"), 
-            pady=10
-            )
-        title.pack()
+            font=("Arial", 20, "bold")
+        )
+        title.pack(pady=10)
 
-        self.listbox = ttk.Listbox(self, font=("Arial", 14), height=20)
-        self.listbox.pack(fill="both", expand=True, padx=20, pady=10)
-        self.listbox.bind("<Double-1>", self.on_exercise_double_click)
+        # Treeview instead of Listbox
+        self.tree = ttk.Treeview(self, show="tree")
+        self.tree.pack(fill="both", expand=True, padx=20, pady=10)
+        self.tree.bind("<Double-1>", self.on_exercise_double_click)
 
         back_button = ttk.Button(
             self, 
             text="Back", 
-            style="warning",
-            font=("Arial", 16), 
+            style="warning", 
             command=self.on_back
-            )
+        )
         back_button.pack(pady=10)
+
 
     def load_exercises(self):
         conn = sqlite3.connect('exercises.db')
@@ -46,10 +46,13 @@ class ExerciseMenu(ttk.Frame):
         conn.close()
 
         for exercise in exercises:
-            self.listbox.insert(ttk.END, exercise[0])
+            self.tree.insert("", "end", text=exercise[0])
 
     def on_exercise_double_click(self, event):
-        selection = self.listbox.curselection()
-        if selection:
-            exercise_name = self.listbox.get(selection[0])
+
+        # Get selected item
+        item_id = self.tree.focus()
+        if item_id:
+            # Get exercise name
+            exercise_name = self.tree.item(item_id, "text")
             self.on_exercise_selected(exercise_name)
