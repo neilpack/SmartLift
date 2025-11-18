@@ -7,7 +7,7 @@ import os
 from demo.equipment_menu import EquipmentMenu
 from demo.exercise_menu import ExerciseMenu
 from demo.exercise_details import ExerciseDetails
-
+from generate_workout.generate import GenerateWorkout
 
 class SmartLiftApp:
     def __init__(self):
