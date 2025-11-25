@@ -3,7 +3,7 @@ from tkinter import messagebox
 import ttkbootstrap as ttk
 from ttkbootstrap import Window
 from datetime import datetime
-from database_operations import get_workout_history, delete_workout_log, save_workout_log, get_all_exercise_names
+from workout_history.database_operations import get_workout_history, delete_workout_log, save_workout_log, get_all_exercise_names
 
 class WorkoutHistory(ttk.Frame):
     def __init__(self, master, on_back=None):
