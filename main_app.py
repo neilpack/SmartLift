@@ -16,38 +16,71 @@ class MainMenu(ttk.Frame):
         self.app = app
         self.pack(fill="both", expand=True)
         self.create_widgets()
-    
+
     def create_widgets(self):
-        # Title
-        title = ttk.Label(self, text="SmartLift", font=("Arial", 32, "bold"))
-        title.pack(pady=50)
-        
-        subtitle = ttk.Label(self, text="Transform your home workouts", font=("Arial", 16))
-        subtitle.pack(pady=10)
-        
-        # Menu buttons
-        button_frame = ttk.Frame(self)
-        button_frame.pack(pady=50)
-        
-        explore_btn = ttk.Button(button_frame, text="Explore Exercises", 
-                               style="primary", width=20,
-                               command=self.app.show_equipment_menu)
-        explore_btn.pack(pady=15)
-        
-        generate_btn = ttk.Button(button_frame, text="Generate Workout", 
-                                style="success", width=20,
-                                command=self.app.show_workout_generator)
-        generate_btn.pack(pady=15)
-        
-        history_btn = ttk.Button(button_frame, text="Workout History", 
-                               style="info", width=20,
-                               command=self.app.show_workout_history)
-        history_btn.pack(pady=15)
-        
-        quit_btn = ttk.Button(button_frame, text="Quit", 
-                            style="danger", width=20,
-                            command=self.app.root.quit)
-        quit_btn.pack(pady=15)
+        # Button Container
+        container = ttk.Frame(self, padding=40)
+        container.pack(expand=True)
+
+        # Title Frame
+        title_frame = ttk.Frame(container)
+        title_frame.pack(pady=20)
+
+        ttk.Label(
+            title_frame, 
+            text="SmartLift", 
+            font=("Arial", 42, "bold")
+        ).pack()
+
+        ttk.Label(
+            title_frame, 
+            text="Tailor your workout for what works for you!", 
+            font=("Arial", 12),
+            foreground="#AAAAAA"
+        ).pack(pady=5)
+
+        # Button Frame
+        button_card = ttk.Frame(
+            container, 
+            padding=40,
+            bootstyle="secondary"
+        )
+        button_card.pack(pady=40)
+
+        btn_pad = {"pady": 15, "padx": 10}
+
+        ttk.Button(
+            button_card, 
+            text="Explore Exercises",
+            bootstyle="primary", 
+            width=25,
+            command=self.app.show_equipment_menu
+        ).pack(**btn_pad)
+
+        ttk.Button(
+            button_card, 
+            text="Generate Workout",
+            bootstyle="success", 
+            width=25,
+            command=self.app.show_workout_generator
+        ).pack(**btn_pad)
+
+        ttk.Button(
+            button_card, 
+            text="Workout History",
+            bootstyle="info", 
+            width=25,
+            command=self.app.show_workout_history
+        ).pack(**btn_pad)
+
+        ttk.Button(
+            button_card, 
+            text="Quit",
+            bootstyle="danger", 
+            width=25,
+            command=self.app.root.quit
+        ).pack(**btn_pad)
+
 
 
 
@@ -55,10 +88,15 @@ class SmartLiftApp:
     def __init__(self):
         self.root = Window(themename="darkly")
         self.root.title("SmartLift")
-        self.root.geometry("800x600")
+        self.root.geometry("750x1334")
         self.current_frame = None
         self.current_equipment = None
         self.show_main_menu()
+        self.root.resizable(True, True)
+        # Adjust scaling for high-DPI displays
+        new_scale = 3.0
+        self.root.tk.call("tk", "scaling", new_scale)
+
 
     def clear_frame(self):
         if self.current_frame:
